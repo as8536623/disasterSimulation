@@ -1,0 +1,33 @@
+{
+  "name": "test",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@babylonjs/core": "^7.19.1",
+    "@babylonjs/inspector": "^7.19.1",
+    "@babylonjs/materials": "^7.19.1",
+    "@tweenjs/tween.js": "^25.0.0",
+    "babylonjs-loaders": "^7.19.1",
+    "camera-controls": "^2.9.0",
+    "element-plus": "^2.7.7",
+    "kd-tree-javascript": "^1.0.3",
+    "quickhull3d": "^3.1.0",
+    "three": "^0.167.1",
+    "three-bvh-csg": "^0.0.16",
+    "three-mesh-bvh": "^0.7.6",
+    "three-nebula": "^10.0.3",
+    "three.proton.js": "^0.2.3",
+    "vue": "^3.4.29",
+    "yuka": "^0.7.8"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.5",
+    "vite": "^5.3.1"
+  }
+}
